@@ -1,5 +1,8 @@
 streamlit
-plotly
 pandas
 numpy
+plotly
+openpyxl
+xlsxwriter
 scipy
+statsmodelss
