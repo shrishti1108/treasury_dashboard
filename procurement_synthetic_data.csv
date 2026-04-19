@@ -1,0 +1,301 @@
+PO_ID,PO_Date,Vendor_Name,Vendor_Category,Business_Unit,Cost_Center,Item_Category,Quantity,Unit_Price,Currency,Payment_Terms,PO_Status,Buyer,Region,Total_PO_Amount
+PO100000,12-04-2024,Zenith Traders,IT Hardware,Operations,CC1001,Software License,12,27487,INR,Net 60,Closed,S Nair,EMEA,329844
+PO100001,14-12-2024,Delta Services,Logistics,HR,CC1001,Consulting,23,13678,INR,Net 45,Open,K Iyer,India,314594
+PO100002,27-09-2024,Omega Corp,Facilities,IT,CC2001,Server,12,39838,INR,Net 60,Open,P Verma,India,478056
+PO100003,16-04-2024,Prime Vendors,Professional Services,Finance,CC2001,Laptop,13,25096,USD,Net 60,Cancelled,R Sharma,EMEA,326248
+PO100004,12-03-2024,ABC Supplies,Logistics,Sales,CC3001,Office Supplies,25,33674,USD,Net 60,Closed,P Verma,EMEA,841850
+PO100005,07-07-2024,ABC Supplies,Professional Services,HR,CC1001,Office Supplies,45,42474,USD,Net 60,Closed,A Mehta,India,1911330
+PO100006,21-01-2024,Omega Corp,IT Hardware,Operations,CC1001,Software License,19,4931,INR,Net 30,Closed,S Nair,EMEA,93689
+PO100007,12-04-2024,Prime Vendors,Professional Services,Manufacturing,CC3001,Office Supplies,46,28264,INR,Net 45,Closed,S Nair,APAC,1300144
+PO100008,01-05-2024,Prime Vendors,Professional Services,HR,CC1003,Consulting,36,22127,USD,Net 60,Open,A Mehta,North America,796572
+PO100009,02-08-2024,Zenith Traders,IT Software,Finance,CC1003,Consulting,45,39810,USD,Net 30,Closed,K Iyer,North America,1791450
+PO100010,26-11-2024,Zenith Traders,IT Software,Operations,CC1003,Software License,8,9406,USD,Net 30,Open,K Iyer,North America,75248
+PO100011,28-03-2024,Zenith Traders,IT Software,IT,CC3001,Consulting,29,37414,INR,Net 30,Closed,S Nair,APAC,1085006
+PO100012,09-04-2024,Zenith Traders,Professional Services,HR,CC1001,Server,32,45314,USD,Net 60,Closed,S Nair,EMEA,1450048
+PO100013,25-12-2024,Zenith Traders,Facilities,Finance,CC3001,Software License,44,45879,USD,Net 60,Closed,R Sharma,EMEA,2018676
+PO100014,31-05-2024,Zenith Traders,Professional Services,Sales,CC3001,Server,18,13576,INR,Net 45,Closed,K Iyer,India,244368
+PO100015,10-05-2024,Delta Services,Facilities,Manufacturing,CC1003,Laptop,6,49792,USD,Net 60,Closed,A Mehta,EMEA,298752
+PO100016,29-05-2024,Prime Vendors,Facilities,Operations,CC1002,Server,18,38150,INR,Net 60,Open,K Iyer,India,686700
+PO100017,04-11-2024,Zenith Traders,IT Software,HR,CC1001,Laptop,19,47381,INR,Net 30,Closed,R Sharma,APAC,900239
+PO100018,14-09-2024,Prime Vendors,Logistics,HR,CC1003,Laptop,22,46913,INR,Net 45,Open,S Nair,North America,1032086
+PO100019,09-12-2024,Prime Vendors,IT Hardware,IT,CC1002,Server,37,6512,USD,Net 60,Open,S Nair,North America,240944
+PO100020,20-10-2024,Global Tech,IT Software,IT,CC1002,Software License,32,7651,USD,Net 60,Open,R Sharma,North America,244832
+PO100021,10-07-2024,Delta Services,IT Software,Sales,CC2001,Consulting,41,28711,INR,Net 30,Closed,A Mehta,EMEA,1177151
+PO100022,03-10-2024,Zenith Traders,Logistics,Manufacturing,CC1001,Consulting,3,27617,USD,Net 30,Closed,S Nair,India,82851
+PO100023,09-06-2024,ABC Supplies,IT Hardware,Sales,CC1002,Laptop,28,36878,USD,Net 60,Open,P Verma,India,1032584
+PO100024,09-11-2024,Omega Corp,Professional Services,Finance,CC1003,Laptop,10,43152,USD,Net 45,Closed,S Nair,APAC,431520
+PO100025,22-01-2024,ABC Supplies,Professional Services,Finance,CC2001,Software License,35,7394,USD,Net 45,Closed,P Verma,EMEA,258790
+PO100026,09-09-2024,Delta Services,IT Software,Sales,CC1001,Office Supplies,29,13967,INR,Net 30,Open,R Sharma,APAC,405043
+PO100027,23-08-2024,Omega Corp,IT Hardware,Manufacturing,CC3001,Server,15,31510,USD,Net 30,Closed,R Sharma,India,472650
+PO100028,10-12-2024,Delta Services,IT Software,Sales,CC1003,Laptop,33,49757,INR,Net 60,Closed,S Nair,India,1641981
+PO100029,18-02-2024,Prime Vendors,Facilities,Manufacturing,CC1002,Consulting,7,43141,INR,Net 30,Closed,K Iyer,North America,301987
+PO100030,28-02-2024,Omega Corp,IT Software,Manufacturing,CC1002,Software License,12,12789,USD,Net 60,Closed,P Verma,EMEA,153468
+PO100031,18-06-2024,Prime Vendors,IT Software,Operations,CC1003,Server,49,45476,INR,Net 45,Open,A Mehta,India,2228324
+PO100032,06-07-2024,ABC Supplies,Professional Services,Manufacturing,CC1002,Software License,30,44096,USD,Net 45,Closed,S Nair,North America,1322880
+PO100033,27-09-2024,ABC Supplies,Professional Services,IT,CC2001,Server,21,23671,USD,Net 60,Closed,A Mehta,EMEA,497091
+PO100034,08-07-2024,Omega Corp,Professional Services,Manufacturing,CC1001,Server,31,35405,INR,Net 30,Closed,S Nair,APAC,1097555
+PO100035,23-06-2024,Omega Corp,Facilities,Manufacturing,CC2001,Laptop,24,21329,INR,Net 45,Open,K Iyer,EMEA,511896
+PO100036,20-02-2024,Zenith Traders,Professional Services,Manufacturing,CC1002,Software License,20,34554,INR,Net 30,Closed,K Iyer,EMEA,691080
+PO100037,29-12-2024,Delta Services,IT Hardware,Finance,CC3001,Software License,37,48978,INR,Net 45,Closed,K Iyer,India,1812186
+PO100038,24-02-2024,Zenith Traders,Logistics,IT,CC1001,Consulting,4,44639,USD,Net 60,Open,K Iyer,India,178556
+PO100039,31-08-2024,Delta Services,IT Hardware,IT,CC1001,Consulting,28,49213,USD,Net 60,Closed,R Sharma,EMEA,1377964
+PO100040,15-11-2024,Zenith Traders,IT Hardware,Sales,CC1003,Laptop,44,30234,USD,Net 60,Closed,R Sharma,India,1330296
+PO100041,10-05-2024,Prime Vendors,Professional Services,Operations,CC1003,Laptop,20,7552,INR,Net 45,Closed,P Verma,India,151040
+PO100042,02-11-2024,Omega Corp,Logistics,Manufacturing,CC3001,Office Supplies,24,4154,INR,Net 30,Closed,A Mehta,India,99696
+PO100043,14-05-2024,ABC Supplies,Logistics,HR,CC1001,Consulting,49,23986,INR,Net 30,Closed,S Nair,North America,1175314
+PO100044,21-01-2024,Delta Services,Logistics,Operations,CC3001,Server,32,19243,USD,Net 30,Cancelled,S Nair,North America,615776
+PO100045,24-11-2024,Delta Services,Facilities,Operations,CC1003,Software License,41,48868,INR,Net 45,Closed,R Sharma,EMEA,2003588
+PO100046,15-06-2024,ABC Supplies,Professional Services,IT,CC1003,Laptop,36,24989,USD,Net 45,Open,S Nair,India,899604
+PO100047,30-09-2024,Zenith Traders,Logistics,Operations,CC1001,Software License,34,9136,INR,Net 45,Closed,R Sharma,North America,310624
+PO100048,29-03-2024,Delta Services,Facilities,Manufacturing,CC2001,Software License,36,6941,USD,Net 45,Closed,P Verma,EMEA,249876
+PO100049,11-11-2024,Prime Vendors,IT Software,Manufacturing,CC1002,Office Supplies,2,25111,USD,Net 45,Cancelled,A Mehta,India,50222
+PO100050,14-01-2024,Omega Corp,IT Software,Finance,CC1003,Consulting,15,42935,INR,Net 30,Closed,P Verma,APAC,644025
+PO100051,29-08-2024,ABC Supplies,Facilities,Manufacturing,CC1003,Laptop,34,12649,INR,Net 45,Open,K Iyer,India,430066
+PO100052,21-09-2024,Omega Corp,Facilities,Manufacturing,CC2001,Software License,36,35066,USD,Net 45,Closed,K Iyer,India,1262376
+PO100053,11-12-2024,Delta Services,Professional Services,IT,CC2001,Laptop,6,42868,USD,Net 30,Closed,K Iyer,North America,257208
+PO100054,22-02-2024,Delta Services,Professional Services,Manufacturing,CC3001,Server,39,22175,INR,Net 45,Cancelled,P Verma,EMEA,864825
+PO100055,05-12-2024,ABC Supplies,IT Software,Finance,CC3001,Office Supplies,42,5995,INR,Net 30,Cancelled,S Nair,EMEA,251790
+PO100056,01-04-2024,Prime Vendors,Logistics,HR,CC1002,Server,12,43168,USD,Net 30,Closed,A Mehta,North America,518016
+PO100057,20-09-2024,Global Tech,IT Software,IT,CC1002,Laptop,3,14173,INR,Net 60,Open,K Iyer,India,42519
+PO100058,04-02-2024,ABC Supplies,Logistics,HR,CC1001,Laptop,45,11630,USD,Net 60,Closed,K Iyer,APAC,523350
+PO100059,24-07-2024,Global Tech,Logistics,IT,CC3001,Consulting,18,23168,USD,Net 60,Open,K Iyer,India,417024
+PO100060,21-03-2024,Zenith Traders,Professional Services,Sales,CC1003,Software License,40,15722,INR,Net 60,Open,A Mehta,India,628880
+PO100061,19-02-2024,Global Tech,IT Hardware,Operations,CC3001,Software License,21,24169,INR,Net 45,Closed,K Iyer,APAC,507549
+PO100062,25-12-2024,Prime Vendors,IT Hardware,Sales,CC1003,Server,15,34568,INR,Net 60,Open,A Mehta,North America,518520
+PO100063,02-01-2024,Zenith Traders,Facilities,Manufacturing,CC2001,Office Supplies,33,23753,INR,Net 30,Closed,K Iyer,EMEA,783849
+PO100064,23-02-2024,Global Tech,Professional Services,HR,CC3001,Software License,35,9935,INR,Net 45,Cancelled,P Verma,North America,347725
+PO100065,15-04-2024,Zenith Traders,Logistics,Manufacturing,CC2001,Consulting,26,29052,USD,Net 60,Closed,P Verma,North America,755352
+PO100066,16-09-2024,Global Tech,IT Hardware,Operations,CC1002,Server,8,37884,USD,Net 30,Open,A Mehta,India,303072
+PO100067,05-11-2024,Prime Vendors,Logistics,IT,CC1002,Server,36,16893,INR,Net 45,Cancelled,P Verma,EMEA,608148
+PO100068,09-07-2024,Global Tech,IT Hardware,Operations,CC1001,Consulting,48,11117,INR,Net 45,Open,A Mehta,EMEA,533616
+PO100069,05-08-2024,Global Tech,IT Hardware,Finance,CC3001,Office Supplies,30,39020,INR,Net 60,Closed,P Verma,North America,1170600
+PO100070,13-02-2024,Global Tech,IT Hardware,Operations,CC2001,Consulting,23,10352,USD,Net 45,Cancelled,P Verma,APAC,238096
+PO100071,10-06-2024,ABC Supplies,Professional Services,Finance,CC1003,Office Supplies,42,31901,INR,Net 30,Cancelled,A Mehta,North America,1339842
+PO100072,20-07-2024,ABC Supplies,IT Software,Operations,CC1002,Consulting,44,6795,INR,Net 45,Closed,S Nair,APAC,298980
+PO100073,26-09-2024,ABC Supplies,Logistics,Finance,CC1002,Consulting,14,36493,USD,Net 30,Closed,P Verma,EMEA,510902
+PO100074,16-12-2024,Prime Vendors,Professional Services,HR,CC1003,Laptop,14,34584,USD,Net 45,Open,K Iyer,North America,484176
+PO100075,30-10-2024,Zenith Traders,Professional Services,Manufacturing,CC2001,Server,2,45605,INR,Net 60,Closed,S Nair,India,91210
+PO100076,27-09-2024,Delta Services,Professional Services,Manufacturing,CC2001,Consulting,37,40075,INR,Net 30,Closed,A Mehta,North America,1482775
+PO100077,02-08-2024,Global Tech,Professional Services,Sales,CC3001,Consulting,5,36951,INR,Net 45,Closed,S Nair,EMEA,184755
+PO100078,08-09-2024,Global Tech,Professional Services,Manufacturing,CC3001,Software License,38,7727,USD,Net 45,Open,R Sharma,India,293626
+PO100079,08-07-2024,Prime Vendors,Facilities,IT,CC1001,Server,45,32410,INR,Net 45,Open,R Sharma,India,1458450
+PO100080,22-10-2024,Global Tech,Logistics,Operations,CC1002,Software License,41,36541,INR,Net 30,Open,P Verma,APAC,1498181
+PO100081,31-07-2024,ABC Supplies,Professional Services,Sales,CC3001,Server,47,23884,INR,Net 30,Closed,P Verma,India,1122548
+PO100082,26-07-2024,Delta Services,Logistics,IT,CC2001,Software License,14,645,USD,Net 30,Closed,K Iyer,India,9030
+PO100083,24-08-2024,Omega Corp,Facilities,IT,CC1003,Consulting,39,38278,USD,Net 60,Cancelled,S Nair,North America,1492842
+PO100084,03-12-2024,Global Tech,Facilities,Finance,CC2001,Consulting,25,16535,INR,Net 60,Closed,R Sharma,EMEA,413375
+PO100085,22-02-2024,ABC Supplies,Logistics,Manufacturing,CC1002,Laptop,20,3540,INR,Net 30,Open,P Verma,APAC,70800
+PO100086,06-10-2024,Omega Corp,IT Hardware,HR,CC2001,Software License,2,42922,USD,Net 45,Closed,S Nair,North America,85844
+PO100087,04-08-2024,Delta Services,IT Software,HR,CC1001,Office Supplies,39,26660,USD,Net 60,Closed,P Verma,India,1039740
+PO100088,08-09-2024,Omega Corp,IT Hardware,Sales,CC1002,Laptop,6,18133,USD,Net 30,Closed,P Verma,India,108798
+PO100089,06-07-2024,ABC Supplies,IT Hardware,HR,CC1003,Software License,17,29844,USD,Net 45,Closed,R Sharma,APAC,507348
+PO100090,10-02-2024,Zenith Traders,IT Hardware,Operations,CC1001,Software License,25,17514,USD,Net 60,Closed,R Sharma,EMEA,437850
+PO100091,05-06-2024,Zenith Traders,Professional Services,HR,CC1002,Laptop,28,15496,USD,Net 45,Closed,P Verma,APAC,433888
+PO100092,15-01-2024,Omega Corp,Facilities,Sales,CC1003,Consulting,2,49604,USD,Net 45,Open,A Mehta,North America,99208
+PO100093,27-10-2024,Prime Vendors,IT Hardware,HR,CC1001,Software License,35,42121,USD,Net 45,Open,P Verma,APAC,1474235
+PO100094,05-03-2024,Omega Corp,Facilities,Operations,CC1001,Consulting,37,12195,USD,Net 45,Closed,P Verma,India,451215
+PO100095,10-12-2024,Global Tech,Logistics,Finance,CC1002,Laptop,5,3352,INR,Net 60,Open,K Iyer,North America,16760
+PO100096,22-11-2024,Global Tech,IT Software,Sales,CC3001,Consulting,1,16514,INR,Net 60,Closed,K Iyer,India,16514
+PO100097,09-01-2024,Zenith Traders,Logistics,Finance,CC1001,Server,40,27542,INR,Net 60,Open,K Iyer,EMEA,1101680
+PO100098,09-12-2024,Prime Vendors,Logistics,Finance,CC1001,Office Supplies,12,34255,USD,Net 30,Closed,A Mehta,India,411060
+PO100099,08-05-2024,ABC Supplies,Professional Services,Finance,CC1003,Software License,36,40890,INR,Net 60,Open,A Mehta,India,1472040
+PO100100,15-05-2024,Global Tech,IT Software,IT,CC2001,Office Supplies,45,24211,USD,Net 45,Closed,P Verma,APAC,1089495
+PO100101,03-03-2024,Zenith Traders,Logistics,Manufacturing,CC1002,Consulting,23,26622,USD,Net 60,Cancelled,K Iyer,India,612306
+PO100102,18-05-2024,Delta Services,Logistics,IT,CC1002,Software License,47,9660,INR,Net 45,Open,A Mehta,North America,454020
+PO100103,21-03-2024,Zenith Traders,IT Software,Manufacturing,CC3001,Consulting,31,27713,USD,Net 30,Open,R Sharma,North America,859103
+PO100104,11-06-2024,Global Tech,IT Software,Finance,CC3001,Server,11,39920,INR,Net 45,Closed,P Verma,EMEA,439120
+PO100105,15-10-2024,Global Tech,Logistics,Sales,CC1002,Laptop,10,7921,INR,Net 45,Closed,S Nair,North America,79210
+PO100106,17-09-2024,Zenith Traders,IT Software,Manufacturing,CC3001,Software License,3,21900,INR,Net 45,Open,P Verma,APAC,65700
+PO100107,18-08-2024,ABC Supplies,Logistics,Operations,CC1003,Server,14,34037,USD,Net 30,Closed,S Nair,EMEA,476518
+PO100108,10-02-2024,Omega Corp,Logistics,Operations,CC1002,Server,16,18227,INR,Net 60,Open,K Iyer,North America,291632
+PO100109,28-01-2024,Global Tech,Professional Services,HR,CC3001,Software License,10,47382,USD,Net 60,Closed,S Nair,APAC,473820
+PO100110,14-05-2024,Zenith Traders,IT Hardware,Manufacturing,CC1002,Consulting,29,4858,INR,Net 30,Closed,K Iyer,North America,140882
+PO100111,19-07-2024,Zenith Traders,Logistics,Sales,CC2001,Server,10,28982,INR,Net 45,Closed,R Sharma,North America,289820
+PO100112,23-11-2024,Prime Vendors,Facilities,IT,CC1001,Office Supplies,12,32617,INR,Net 60,Cancelled,S Nair,India,391404
+PO100113,24-09-2024,Omega Corp,IT Hardware,Finance,CC1002,Server,30,23664,USD,Net 30,Open,P Verma,North America,709920
+PO100114,02-02-2024,Delta Services,IT Hardware,HR,CC1001,Consulting,41,32410,USD,Net 60,Closed,K Iyer,North America,1328810
+PO100115,17-02-2024,ABC Supplies,IT Hardware,Operations,CC3001,Consulting,1,32996,USD,Net 30,Open,P Verma,APAC,32996
+PO100116,02-03-2024,Delta Services,Professional Services,IT,CC1001,Office Supplies,5,44811,INR,Net 45,Closed,A Mehta,APAC,224055
+PO100117,03-08-2024,Omega Corp,Logistics,IT,CC1002,Server,20,29871,INR,Net 60,Closed,K Iyer,India,597420
+PO100118,19-10-2024,Omega Corp,Professional Services,Finance,CC2001,Consulting,8,38967,USD,Net 30,Closed,S Nair,North America,311736
+PO100119,08-04-2024,Omega Corp,Logistics,Manufacturing,CC3001,Software License,43,18125,USD,Net 60,Open,K Iyer,India,779375
+PO100120,20-06-2024,Delta Services,Professional Services,Operations,CC1002,Laptop,12,34393,USD,Net 60,Open,P Verma,North America,412716
+PO100121,25-12-2024,Omega Corp,Professional Services,Sales,CC3001,Laptop,1,11293,USD,Net 60,Closed,R Sharma,EMEA,11293
+PO100122,01-08-2024,Zenith Traders,Facilities,IT,CC1003,Laptop,20,31507,USD,Net 60,Closed,K Iyer,EMEA,630140
+PO100123,04-02-2024,Delta Services,Professional Services,Finance,CC1001,Server,28,26266,USD,Net 30,Open,S Nair,India,735448
+PO100124,14-08-2024,Omega Corp,IT Software,Sales,CC1003,Office Supplies,43,40032,INR,Net 45,Closed,A Mehta,India,1721376
+PO100125,10-04-2024,Zenith Traders,Facilities,Manufacturing,CC1002,Consulting,37,12823,USD,Net 30,Open,R Sharma,India,474451
+PO100126,10-05-2024,Prime Vendors,Professional Services,Operations,CC2001,Software License,47,46299,INR,Net 30,Closed,A Mehta,APAC,2176053
+PO100127,13-09-2024,Omega Corp,IT Hardware,Manufacturing,CC3001,Software License,37,47320,INR,Net 30,Closed,K Iyer,APAC,1750840
+PO100128,05-01-2024,Delta Services,IT Software,IT,CC1001,Server,12,45908,USD,Net 45,Closed,P Verma,APAC,550896
+PO100129,05-08-2024,Global Tech,IT Software,Sales,CC3001,Laptop,37,8343,USD,Net 60,Open,P Verma,India,308691
+PO100130,11-09-2024,Omega Corp,IT Software,Sales,CC1002,Server,49,14710,INR,Net 60,Closed,S Nair,North America,720790
+PO100131,24-12-2024,Global Tech,Facilities,Sales,CC3001,Office Supplies,49,16956,USD,Net 60,Open,P Verma,EMEA,830844
+PO100132,09-10-2024,Zenith Traders,Professional Services,IT,CC1001,Office Supplies,44,31867,USD,Net 45,Cancelled,R Sharma,India,1402148
+PO100133,25-07-2024,Prime Vendors,Professional Services,IT,CC1002,Consulting,28,10606,INR,Net 60,Open,P Verma,APAC,296968
+PO100134,15-01-2024,ABC Supplies,IT Hardware,Manufacturing,CC3001,Consulting,47,38457,INR,Net 45,Closed,S Nair,APAC,1807479
+PO100135,11-12-2024,Prime Vendors,IT Hardware,HR,CC2001,Office Supplies,15,2972,INR,Net 60,Cancelled,K Iyer,India,44580
+PO100136,11-02-2024,Omega Corp,IT Software,Manufacturing,CC1002,Office Supplies,6,7204,USD,Net 60,Closed,K Iyer,India,43224
+PO100137,27-06-2024,Global Tech,IT Hardware,Operations,CC1002,Office Supplies,44,4213,INR,Net 30,Closed,P Verma,APAC,185372
+PO100138,03-03-2024,Global Tech,Facilities,Finance,CC2001,Server,20,5551,USD,Net 45,Closed,A Mehta,North America,111020
+PO100139,17-12-2024,Delta Services,Professional Services,Sales,CC1003,Office Supplies,14,11256,INR,Net 30,Cancelled,K Iyer,APAC,157584
+PO100140,18-08-2024,Global Tech,IT Software,HR,CC1001,Software License,2,2975,INR,Net 30,Closed,P Verma,APAC,5950
+PO100141,28-08-2024,Delta Services,IT Hardware,Finance,CC1003,Laptop,9,36878,INR,Net 30,Closed,S Nair,India,331902
+PO100142,21-02-2024,Zenith Traders,Facilities,HR,CC3001,Office Supplies,37,4755,USD,Net 45,Closed,P Verma,North America,175935
+PO100143,05-04-2024,ABC Supplies,Facilities,Manufacturing,CC2001,Laptop,20,14984,USD,Net 45,Closed,K Iyer,APAC,299680
+PO100144,09-08-2024,Omega Corp,IT Hardware,IT,CC1003,Server,26,35003,INR,Net 60,Closed,S Nair,APAC,910078
+PO100145,18-08-2024,Delta Services,Professional Services,Sales,CC1002,Laptop,29,8758,INR,Net 30,Closed,P Verma,EMEA,253982
+PO100146,24-08-2024,ABC Supplies,IT Hardware,Manufacturing,CC3001,Server,1,41247,INR,Net 60,Open,R Sharma,India,41247
+PO100147,22-05-2024,Global Tech,IT Software,Finance,CC3001,Software License,35,35696,USD,Net 30,Open,S Nair,EMEA,1249360
+PO100148,19-06-2024,Global Tech,IT Hardware,Finance,CC1003,Server,6,45613,INR,Net 45,Open,R Sharma,EMEA,273678
+PO100149,29-01-2024,ABC Supplies,Facilities,Finance,CC1003,Server,37,40694,USD,Net 45,Open,A Mehta,APAC,1505678
+PO100150,05-02-2024,Global Tech,IT Hardware,Finance,CC2001,Consulting,5,9033,INR,Net 45,Open,S Nair,India,45165
+PO100151,13-01-2024,Zenith Traders,Professional Services,Finance,CC1001,Office Supplies,33,33081,INR,Net 30,Closed,R Sharma,North America,1091673
+PO100152,08-06-2024,Zenith Traders,Logistics,HR,CC1003,Office Supplies,49,5749,INR,Net 45,Open,K Iyer,APAC,281701
+PO100153,22-11-2024,ABC Supplies,IT Hardware,Manufacturing,CC1003,Software License,14,19701,INR,Net 30,Closed,K Iyer,North America,275814
+PO100154,05-07-2024,Delta Services,Professional Services,Sales,CC1002,Software License,12,10186,INR,Net 60,Open,A Mehta,North America,122232
+PO100155,30-08-2024,Delta Services,Professional Services,IT,CC3001,Office Supplies,42,47377,INR,Net 30,Open,S Nair,India,1989834
+PO100156,26-03-2024,ABC Supplies,Facilities,IT,CC1001,Consulting,20,32507,USD,Net 60,Closed,S Nair,EMEA,650140
+PO100157,10-10-2024,Delta Services,Professional Services,Manufacturing,CC1002,Office Supplies,24,1161,INR,Net 30,Closed,S Nair,India,27864
+PO100158,06-03-2024,Delta Services,Professional Services,Manufacturing,CC2001,Consulting,43,45343,USD,Net 60,Open,A Mehta,North America,1949749
+PO100159,18-06-2024,Zenith Traders,Professional Services,IT,CC2001,Software License,34,30637,INR,Net 45,Closed,S Nair,APAC,1041658
+PO100160,14-02-2024,Delta Services,Professional Services,IT,CC1003,Laptop,25,48056,INR,Net 60,Closed,K Iyer,North America,1201400
+PO100161,02-03-2024,Prime Vendors,IT Software,HR,CC1003,Software License,29,43328,USD,Net 45,Closed,R Sharma,APAC,1256512
+PO100162,13-05-2024,Omega Corp,IT Software,Operations,CC2001,Software License,39,49104,INR,Net 45,Closed,K Iyer,APAC,1915056
+PO100163,10-10-2024,Global Tech,Facilities,Sales,CC1003,Server,31,11026,USD,Net 60,Cancelled,K Iyer,India,341806
+PO100164,28-01-2024,Prime Vendors,IT Hardware,Finance,CC1001,Server,47,3874,USD,Net 30,Closed,R Sharma,North America,182078
+PO100165,17-04-2024,Delta Services,Professional Services,Operations,CC1003,Server,43,26092,INR,Net 30,Closed,K Iyer,EMEA,1121956
+PO100166,13-02-2024,Zenith Traders,IT Hardware,Manufacturing,CC3001,Server,23,29482,USD,Net 30,Closed,A Mehta,North America,678086
+PO100167,05-12-2024,ABC Supplies,IT Hardware,IT,CC1003,Consulting,44,707,USD,Net 30,Open,R Sharma,North America,31108
+PO100168,12-10-2024,Delta Services,Facilities,Operations,CC1002,Office Supplies,38,35933,INR,Net 30,Closed,K Iyer,EMEA,1365454
+PO100169,26-11-2024,Zenith Traders,Professional Services,Sales,CC1001,Laptop,20,23697,USD,Net 45,Open,P Verma,India,473940
+PO100170,07-05-2024,Omega Corp,Professional Services,Manufacturing,CC1002,Software License,23,33900,INR,Net 30,Closed,K Iyer,North America,779700
+PO100171,13-12-2024,Delta Services,Logistics,Finance,CC1002,Consulting,45,3583,INR,Net 45,Closed,A Mehta,North America,161235
+PO100172,18-08-2024,ABC Supplies,IT Hardware,Finance,CC3001,Laptop,16,29828,INR,Net 45,Closed,S Nair,APAC,477248
+PO100173,08-07-2024,Zenith Traders,IT Hardware,Sales,CC1001,Consulting,42,46979,INR,Net 45,Open,K Iyer,North America,1973118
+PO100174,12-08-2024,Zenith Traders,IT Software,Sales,CC1001,Consulting,8,43391,USD,Net 60,Open,S Nair,EMEA,347128
+PO100175,09-10-2024,Zenith Traders,Logistics,IT,CC1001,Software License,21,20603,INR,Net 60,Closed,P Verma,APAC,432663
+PO100176,30-04-2024,Omega Corp,IT Software,Finance,CC1001,Office Supplies,1,40391,INR,Net 45,Closed,K Iyer,India,40391
+PO100177,25-04-2024,Delta Services,IT Software,Manufacturing,CC1001,Server,8,11254,USD,Net 60,Closed,R Sharma,APAC,90032
+PO100178,20-08-2024,Omega Corp,IT Software,Operations,CC3001,Office Supplies,29,34947,INR,Net 30,Open,S Nair,EMEA,1013463
+PO100179,15-09-2024,Global Tech,Facilities,Manufacturing,CC1003,Software License,32,16401,INR,Net 30,Closed,P Verma,EMEA,524832
+PO100180,24-12-2024,Global Tech,Facilities,HR,CC1002,Software License,38,33504,USD,Net 45,Open,R Sharma,APAC,1273152
+PO100181,16-07-2024,Delta Services,IT Software,HR,CC1001,Software License,5,7946,USD,Net 30,Cancelled,R Sharma,India,39730
+PO100182,16-05-2024,Omega Corp,Logistics,Sales,CC1003,Laptop,47,37711,USD,Net 45,Open,R Sharma,APAC,1772417
+PO100183,13-11-2024,ABC Supplies,IT Hardware,IT,CC1003,Office Supplies,22,48731,USD,Net 45,Closed,R Sharma,India,1072082
+PO100184,13-06-2024,Zenith Traders,Logistics,HR,CC1002,Office Supplies,47,29801,USD,Net 30,Open,K Iyer,APAC,1400647
+PO100185,12-08-2024,Zenith Traders,Professional Services,Finance,CC3001,Consulting,34,26616,USD,Net 60,Cancelled,K Iyer,EMEA,904944
+PO100186,02-11-2024,Delta Services,Facilities,Manufacturing,CC2001,Consulting,1,41823,USD,Net 30,Closed,K Iyer,North America,41823
+PO100187,21-08-2024,Global Tech,IT Hardware,Manufacturing,CC2001,Consulting,26,19252,INR,Net 30,Open,P Verma,North America,500552
+PO100188,20-06-2024,Global Tech,IT Hardware,Sales,CC1003,Software License,43,32876,USD,Net 45,Closed,P Verma,India,1413668
+PO100189,31-05-2024,Zenith Traders,Professional Services,Operations,CC1002,Office Supplies,10,17169,USD,Net 45,Open,P Verma,India,171690
+PO100190,10-11-2024,Delta Services,Professional Services,Sales,CC2001,Software License,30,33416,USD,Net 45,Open,A Mehta,India,1002480
+PO100191,08-06-2024,Omega Corp,IT Software,Operations,CC1003,Laptop,18,13895,INR,Net 45,Cancelled,P Verma,EMEA,250110
+PO100192,05-04-2024,Global Tech,Facilities,Sales,CC3001,Consulting,17,20921,INR,Net 60,Closed,K Iyer,APAC,355657
+PO100193,20-08-2024,Omega Corp,Facilities,Sales,CC2001,Software License,26,26842,USD,Net 60,Closed,K Iyer,EMEA,697892
+PO100194,28-06-2024,Global Tech,Logistics,Sales,CC1003,Software License,8,5395,USD,Net 60,Closed,A Mehta,North America,43160
+PO100195,22-04-2024,Global Tech,IT Software,Operations,CC1003,Laptop,47,11523,USD,Net 45,Closed,A Mehta,India,541581
+PO100196,13-11-2024,Prime Vendors,IT Software,Operations,CC1001,Server,40,11199,INR,Net 45,Open,P Verma,APAC,447960
+PO100197,21-02-2024,Global Tech,IT Software,Sales,CC3001,Office Supplies,49,10215,INR,Net 45,Open,S Nair,North America,500535
+PO100198,24-09-2024,ABC Supplies,IT Software,HR,CC1001,Server,12,19669,USD,Net 60,Closed,A Mehta,North America,236028
+PO100199,21-10-2024,Delta Services,Facilities,IT,CC1002,Consulting,27,16663,INR,Net 45,Cancelled,R Sharma,North America,449901
+PO100200,22-04-2024,Delta Services,Facilities,IT,CC1001,Software License,8,6282,USD,Net 30,Open,K Iyer,EMEA,50256
+PO100201,10-04-2024,Omega Corp,IT Software,IT,CC1001,Laptop,25,23141,INR,Net 30,Open,R Sharma,India,578525
+PO100202,22-04-2024,Global Tech,Logistics,Operations,CC2001,Laptop,46,19292,INR,Net 45,Closed,K Iyer,North America,887432
+PO100203,21-03-2024,ABC Supplies,IT Hardware,Operations,CC1003,Office Supplies,4,49992,USD,Net 30,Cancelled,K Iyer,India,199968
+PO100204,05-07-2024,Omega Corp,IT Hardware,HR,CC3001,Server,33,36085,USD,Net 30,Open,A Mehta,EMEA,1190805
+PO100205,22-04-2024,Prime Vendors,Logistics,IT,CC1001,Office Supplies,1,31182,USD,Net 60,Closed,A Mehta,North America,31182
+PO100206,02-01-2024,Omega Corp,IT Software,IT,CC3001,Software License,19,48364,USD,Net 45,Closed,R Sharma,EMEA,918916
+PO100207,09-05-2024,Omega Corp,Facilities,Sales,CC1001,Office Supplies,31,19380,INR,Net 45,Open,K Iyer,EMEA,600780
+PO100208,07-08-2024,Global Tech,IT Hardware,Operations,CC1002,Laptop,16,38567,INR,Net 60,Open,R Sharma,India,617072
+PO100209,23-02-2024,Prime Vendors,Professional Services,IT,CC1001,Laptop,14,43185,INR,Net 30,Closed,S Nair,North America,604590
+PO100210,08-12-2024,Omega Corp,Professional Services,Manufacturing,CC2001,Consulting,48,18573,USD,Net 30,Cancelled,R Sharma,EMEA,891504
+PO100211,11-08-2024,ABC Supplies,Logistics,HR,CC1003,Consulting,5,36535,INR,Net 45,Open,P Verma,North America,182675
+PO100212,12-08-2024,ABC Supplies,IT Software,Manufacturing,CC1002,Software License,41,37674,USD,Net 30,Closed,R Sharma,India,1544634
+PO100213,05-05-2024,Delta Services,IT Hardware,Manufacturing,CC1001,Server,26,25337,INR,Net 60,Closed,P Verma,EMEA,658762
+PO100214,09-05-2024,Prime Vendors,IT Software,HR,CC3001,Office Supplies,28,18326,USD,Net 60,Closed,P Verma,India,513128
+PO100215,22-02-2024,Prime Vendors,IT Hardware,Manufacturing,CC1002,Software License,2,25481,USD,Net 45,Closed,P Verma,North America,50962
+PO100216,20-06-2024,Delta Services,Logistics,IT,CC1002,Consulting,6,10882,INR,Net 60,Closed,S Nair,North America,65292
+PO100217,05-08-2024,Omega Corp,Logistics,Operations,CC1001,Office Supplies,9,4937,USD,Net 60,Closed,R Sharma,India,44433
+PO100218,08-06-2024,Prime Vendors,Professional Services,HR,CC1002,Consulting,33,5935,USD,Net 45,Closed,R Sharma,APAC,195855
+PO100219,16-07-2024,ABC Supplies,IT Software,Sales,CC3001,Office Supplies,41,25319,INR,Net 60,Closed,S Nair,EMEA,1038079
+PO100220,03-09-2024,ABC Supplies,Professional Services,Manufacturing,CC1002,Server,25,37375,USD,Net 60,Closed,K Iyer,North America,934375
+PO100221,19-11-2024,Global Tech,IT Software,HR,CC3001,Software License,48,32482,USD,Net 60,Closed,A Mehta,North America,1559136
+PO100222,21-07-2024,Prime Vendors,Professional Services,Finance,CC1001,Office Supplies,13,33828,USD,Net 30,Open,R Sharma,EMEA,439764
+PO100223,02-07-2024,Omega Corp,Facilities,Finance,CC1003,Laptop,9,12829,INR,Net 45,Closed,A Mehta,India,115461
+PO100224,02-05-2024,Delta Services,Facilities,Operations,CC1002,Laptop,13,25669,INR,Net 45,Closed,S Nair,India,333697
+PO100225,11-09-2024,Delta Services,Facilities,IT,CC1003,Office Supplies,31,22432,USD,Net 45,Open,K Iyer,India,695392
+PO100226,20-10-2024,Omega Corp,Facilities,Operations,CC3001,Office Supplies,41,35094,INR,Net 30,Closed,K Iyer,APAC,1438854
+PO100227,06-10-2024,Zenith Traders,IT Hardware,Operations,CC1002,Office Supplies,11,11921,USD,Net 30,Closed,K Iyer,APAC,131131
+PO100228,20-11-2024,Global Tech,Facilities,Operations,CC2001,Laptop,4,45533,USD,Net 45,Open,S Nair,North America,182132
+PO100229,07-04-2024,Delta Services,Logistics,Operations,CC1003,Laptop,34,8129,USD,Net 30,Closed,P Verma,India,276386
+PO100230,16-07-2024,Prime Vendors,Logistics,Sales,CC1002,Office Supplies,38,8825,USD,Net 45,Open,P Verma,EMEA,335350
+PO100231,27-08-2024,Global Tech,IT Hardware,Sales,CC1003,Consulting,46,28995,USD,Net 30,Open,A Mehta,North America,1333770
+PO100232,23-05-2024,Prime Vendors,Facilities,HR,CC1002,Consulting,4,32250,INR,Net 60,Closed,P Verma,EMEA,129000
+PO100233,06-04-2024,ABC Supplies,Facilities,Finance,CC1001,Server,38,30119,USD,Net 60,Open,P Verma,North America,1144522
+PO100234,19-07-2024,Global Tech,Facilities,Operations,CC1003,Software License,19,40961,INR,Net 45,Closed,K Iyer,APAC,778259
+PO100235,03-05-2024,Delta Services,Professional Services,HR,CC2001,Consulting,6,8764,INR,Net 30,Closed,K Iyer,North America,52584
+PO100236,05-07-2024,Global Tech,IT Software,Finance,CC2001,Laptop,34,13186,USD,Net 30,Closed,A Mehta,APAC,448324
+PO100237,21-11-2024,Global Tech,Professional Services,Manufacturing,CC3001,Consulting,18,46984,USD,Net 60,Closed,R Sharma,North America,845712
+PO100238,14-12-2024,Global Tech,IT Software,IT,CC1002,Server,13,24726,INR,Net 60,Open,A Mehta,India,321438
+PO100239,15-09-2024,Zenith Traders,Facilities,Sales,CC1003,Server,41,7221,INR,Net 30,Closed,A Mehta,EMEA,296061
+PO100240,27-05-2024,Global Tech,Facilities,Manufacturing,CC3001,Software License,23,21109,INR,Net 30,Open,S Nair,India,485507
+PO100241,08-09-2024,Prime Vendors,Professional Services,Finance,CC1003,Consulting,19,7873,USD,Net 30,Closed,S Nair,North America,149587
+PO100242,11-12-2024,ABC Supplies,Professional Services,Manufacturing,CC1002,Laptop,45,39175,INR,Net 30,Cancelled,A Mehta,North America,1762875
+PO100243,26-05-2024,Omega Corp,IT Software,IT,CC2001,Laptop,11,49395,USD,Net 30,Open,A Mehta,North America,543345
+PO100244,27-05-2024,Global Tech,Logistics,Finance,CC1001,Office Supplies,1,29437,USD,Net 30,Closed,A Mehta,APAC,29437
+PO100245,17-12-2024,Delta Services,IT Software,Manufacturing,CC2001,Laptop,24,6156,USD,Net 45,Closed,P Verma,EMEA,147744
+PO100246,17-07-2024,Global Tech,Professional Services,Sales,CC3001,Software License,7,9484,INR,Net 30,Closed,S Nair,EMEA,66388
+PO100247,03-11-2024,Delta Services,Professional Services,Sales,CC1001,Software License,25,30484,USD,Net 60,Closed,A Mehta,North America,762100
+PO100248,07-05-2024,Prime Vendors,IT Hardware,HR,CC3001,Laptop,21,8786,USD,Net 45,Open,K Iyer,North America,184506
+PO100249,08-02-2024,Delta Services,Professional Services,Manufacturing,CC1002,Laptop,15,6401,USD,Net 30,Closed,K Iyer,APAC,96015
+PO100250,03-12-2024,Omega Corp,IT Hardware,Operations,CC1001,Office Supplies,1,32052,USD,Net 60,Open,P Verma,India,32052
+PO100251,25-12-2024,ABC Supplies,Logistics,Manufacturing,CC3001,Laptop,12,26209,USD,Net 45,Closed,P Verma,India,314508
+PO100252,08-05-2024,Delta Services,IT Software,Finance,CC1002,Office Supplies,7,31555,INR,Net 60,Cancelled,R Sharma,EMEA,220885
+PO100253,23-09-2024,Delta Services,IT Software,Finance,CC2001,Office Supplies,15,38185,USD,Net 30,Closed,R Sharma,APAC,572775
+PO100254,30-05-2024,ABC Supplies,IT Hardware,Manufacturing,CC1002,Laptop,21,8929,USD,Net 30,Closed,R Sharma,North America,187509
+PO100255,24-10-2024,Omega Corp,IT Software,IT,CC1003,Server,19,15216,INR,Net 30,Open,P Verma,EMEA,289104
+PO100256,08-04-2024,Global Tech,Professional Services,Sales,CC1002,Server,29,49063,USD,Net 30,Closed,P Verma,APAC,1422827
+PO100257,19-09-2024,Delta Services,Facilities,Finance,CC1002,Office Supplies,25,11638,INR,Net 45,Closed,P Verma,India,290950
+PO100258,08-09-2024,ABC Supplies,IT Hardware,Sales,CC1003,Laptop,33,35798,USD,Net 45,Open,K Iyer,APAC,1181334
+PO100259,23-05-2024,Prime Vendors,IT Software,Finance,CC3001,Server,49,23929,INR,Net 60,Closed,P Verma,India,1172521
+PO100260,11-12-2024,ABC Supplies,IT Hardware,HR,CC3001,Laptop,32,6272,INR,Net 30,Open,K Iyer,APAC,200704
+PO100261,21-04-2024,Prime Vendors,IT Hardware,Operations,CC1002,Laptop,49,48744,USD,Net 60,Closed,R Sharma,EMEA,2388456
+PO100262,29-02-2024,Omega Corp,Facilities,Finance,CC1003,Laptop,35,49019,USD,Net 45,Closed,R Sharma,India,1715665
+PO100263,02-01-2024,Global Tech,Professional Services,Sales,CC1003,Consulting,44,36232,USD,Net 30,Closed,R Sharma,EMEA,1594208
+PO100264,30-10-2024,ABC Supplies,IT Hardware,HR,CC2001,Laptop,38,40405,INR,Net 30,Open,A Mehta,EMEA,1535390
+PO100265,10-09-2024,Zenith Traders,IT Software,Finance,CC3001,Consulting,26,17847,INR,Net 45,Closed,A Mehta,India,464022
+PO100266,19-05-2024,Delta Services,Logistics,IT,CC1001,Office Supplies,11,17420,INR,Net 45,Closed,S Nair,India,191620
+PO100267,06-02-2024,Omega Corp,IT Hardware,Operations,CC3001,Server,35,32322,USD,Net 45,Cancelled,S Nair,North America,1131270
+PO100268,08-06-2024,ABC Supplies,IT Hardware,Finance,CC3001,Server,8,47159,INR,Net 45,Closed,S Nair,North America,377272
+PO100269,09-01-2024,Delta Services,Facilities,HR,CC2001,Server,46,40608,INR,Net 45,Closed,A Mehta,North America,1867968
+PO100270,20-08-2024,ABC Supplies,Professional Services,IT,CC1001,Server,14,24063,USD,Net 30,Closed,A Mehta,EMEA,336882
+PO100271,08-04-2024,Prime Vendors,Logistics,Manufacturing,CC2001,Server,10,8467,INR,Net 45,Closed,S Nair,EMEA,84670
+PO100272,26-05-2024,ABC Supplies,IT Software,HR,CC1001,Server,2,45683,INR,Net 30,Closed,S Nair,North America,91366
+PO100273,30-10-2024,Zenith Traders,Logistics,HR,CC1002,Server,46,12371,USD,Net 30,Closed,P Verma,EMEA,569066
+PO100274,26-07-2024,ABC Supplies,IT Software,IT,CC1001,Office Supplies,9,29263,INR,Net 45,Closed,S Nair,EMEA,263367
+PO100275,10-05-2024,ABC Supplies,Professional Services,HR,CC2001,Laptop,3,12416,USD,Net 45,Closed,P Verma,India,37248
+PO100276,31-05-2024,Zenith Traders,IT Software,IT,CC3001,Software License,21,9234,USD,Net 30,Closed,K Iyer,India,193914
+PO100277,23-02-2024,Omega Corp,Facilities,Finance,CC1001,Consulting,26,34113,USD,Net 45,Open,A Mehta,EMEA,886938
+PO100278,29-04-2024,ABC Supplies,Facilities,IT,CC1001,Software License,8,28679,USD,Net 45,Open,S Nair,North America,229432
+PO100279,09-06-2024,Zenith Traders,Facilities,IT,CC1003,Software License,48,35762,USD,Net 45,Open,A Mehta,APAC,1716576
+PO100280,25-04-2024,Delta Services,Facilities,Operations,CC3001,Laptop,2,13177,INR,Net 60,Open,A Mehta,North America,26354
+PO100281,15-03-2024,Prime Vendors,Logistics,IT,CC1002,Laptop,6,18768,INR,Net 30,Closed,A Mehta,APAC,112608
+PO100282,22-04-2024,Prime Vendors,Professional Services,IT,CC2001,Laptop,28,12830,USD,Net 60,Closed,K Iyer,North America,359240
+PO100283,13-04-2024,ABC Supplies,IT Software,Manufacturing,CC1002,Server,29,21233,USD,Net 45,Closed,R Sharma,India,615757
+PO100284,05-12-2024,Omega Corp,IT Software,Finance,CC3001,Office Supplies,26,38447,INR,Net 60,Closed,S Nair,EMEA,999622
+PO100285,10-09-2024,Omega Corp,Facilities,Operations,CC1001,Server,25,27786,USD,Net 45,Cancelled,R Sharma,EMEA,694650
+PO100286,14-08-2024,Delta Services,Facilities,Manufacturing,CC1001,Office Supplies,12,7110,USD,Net 60,Closed,R Sharma,India,85320
+PO100287,21-04-2024,ABC Supplies,IT Hardware,Sales,CC3001,Office Supplies,5,6930,USD,Net 45,Closed,R Sharma,APAC,34650
+PO100288,08-04-2024,Prime Vendors,Professional Services,Finance,CC1001,Software License,34,40422,INR,Net 60,Closed,A Mehta,APAC,1374348
+PO100289,01-06-2024,Omega Corp,Logistics,Finance,CC1001,Software License,48,14328,INR,Net 60,Closed,P Verma,APAC,687744
+PO100290,14-12-2024,ABC Supplies,IT Software,Sales,CC1001,Office Supplies,37,43413,USD,Net 60,Open,A Mehta,India,1606281
+PO100291,03-12-2024,Omega Corp,IT Hardware,IT,CC2001,Office Supplies,15,31997,USD,Net 30,Closed,A Mehta,APAC,479955
+PO100292,12-07-2024,Zenith Traders,IT Hardware,Manufacturing,CC2001,Server,44,39756,INR,Net 60,Cancelled,R Sharma,India,1749264
+PO100293,05-11-2024,Omega Corp,IT Software,HR,CC1003,Server,36,37118,INR,Net 30,Closed,A Mehta,North America,1336248
+PO100294,11-06-2024,Prime Vendors,Logistics,Operations,CC1002,Software License,15,46832,USD,Net 45,Open,R Sharma,North America,702480
+PO100295,26-07-2024,Global Tech,IT Hardware,HR,CC3001,Laptop,43,27026,USD,Net 60,Closed,P Verma,India,1162118
+PO100296,17-06-2024,Delta Services,IT Hardware,Sales,CC3001,Office Supplies,48,30658,INR,Net 45,Closed,S Nair,EMEA,1471584
+PO100297,09-06-2024,Delta Services,Professional Services,Finance,CC3001,Server,23,25532,INR,Net 45,Open,R Sharma,North America,587236
+PO100298,08-03-2024,Prime Vendors,Logistics,Finance,CC1003,Software License,6,38346,INR,Net 60,Closed,P Verma,APAC,230076
+PO100299,15-10-2024,Omega Corp,IT Hardware,Operations,CC2001,Server,46,45436,USD,Net 30,Closed,S Nair,India,2090056
